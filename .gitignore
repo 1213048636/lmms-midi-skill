@@ -1,0 +1,5 @@
+node_modules/
+*.mmpz
+*.mmpz.bak
+*.mid
+test-lib.mid
