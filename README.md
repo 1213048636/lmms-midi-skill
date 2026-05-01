@@ -1,4 +1,4 @@
-# LMMS MIDI Skill · LMMS MIDI 技能
+# LMMS MIDI Skill
 
 > Claude Code agent skill for generating MIDI files and importing them into LMMS projects.
 > Claude Code 智能体技能：生成 MIDI 文件并导入 LMMS 项目。
