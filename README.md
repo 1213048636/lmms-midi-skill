@@ -9,6 +9,16 @@
 
 ## English
 
+### Foreword
+
+I am solidly unskilled at both programming and music production — solidly, consistently, at the "haven't even started" level. Over the past few years, I've opened FL Studio, Studio One, and similar DAWs in sporadic bursts, attempting something close to archaeology: composing music the ancient way.
+
+I have to admit, the learning curve of these tools is a wall. Every time I try to climb, I slide back down after two steps.
+
+Worse still, academics — that beast — keeps me away for months at a time. Each time I return, it's like meeting for the first time: the MIDI keyboard is coated in dust, the piano roll grid is dense enough to trigger trypophobia, and my most practiced skill is closing the application.
+
+Truth be told, at this point, every major commercial DAW already has AI integration, so the purpose of all this isn't exactly clear.
+
 ### What It Does
 
 This skill teaches Claude how to:
@@ -89,6 +99,15 @@ lmms-midi-skill/
 ---
 
 ## 中文
+
+### 写在前面
+
+我在计算机和编曲这两件事上，水平异常稳固——稳固地停留在“未入门”段位。近几年，我断断续续地打开 FL Studio、Studio One 这类数字音频工作站，试图进行一种近乎考古的行为：古法编曲。
+不得不承认，这些软件的学习曲线陡峭得像一堵墙，每次爬两下就会滑回原地。
+
+更致命的是，由于学业这头巨兽，我常常很久不碰它们。每次重新打开，都像第一次见面：MIDI 键盘落满了灰，钢琴卷帘里的网格密得快诱发密集恐惧，而我最熟练的操作，是把软件关掉。
+
+事实上在当今这个时间节点，各大商用DAW工具早就有了AI集成，所以这一切的意义好像并不明确。
 
 ### 功能
 
